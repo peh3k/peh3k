@@ -15,12 +15,6 @@
  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
 <br></br>
 
-## ⏳ Ainda quero aprender:
-  <p><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<br></br>
-
 ## 💡 Portifólio:
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=peh3k&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
