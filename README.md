@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-
+<a href="https://github.com/Rodriguessz">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peh3k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 
 
